@@ -1,0 +1,4 @@
+Docktype: !doctype html
+Title: SportFocus vzw - Zwemlessen - Sportkampen - Voetbal
+Charset: UTF-8
+Valide? nee er komen paar warning en erros voor
